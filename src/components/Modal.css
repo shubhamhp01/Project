@@ -1,0 +1,17 @@
+.modal-button{
+    min-width: 100px;
+    padding: 16px 32px;
+    border-radius: 4px;
+    border: None;
+    background: #141414;
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.container{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
